@@ -1,0 +1,137 @@
+
+#menu{
+text-align:center;
+margin:auto;
+padding:10px;
+background-color:burlywood;
+font-family:"Trebuchet MS";
+block-size: auto;
+}
+li  {
+display:inline;
+float:center;
+padding:10px 10px;
+font-size:20px;
+text-align:center;
+font-family:"Trebuchet MS";
+}
+#menu a {
+    display: inline;
+    color: black;
+    padding: 10px 5px;
+    text-decoration: none;
+    font-family:"Trebuchet MS";
+}
+ #menu a:link { 
+    text-decoration: none; 
+}
+ #menu a:visited { 
+    text-decoration: none; 
+}
+#menu a:hover {
+    background-color: #a58335;
+    text-decoration:none;
+}
+ #menu a:active { 
+    text-decoration: none; 
+}
+h1 {
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;  
+}
+
+body {
+background-color:bisque;
+}
+#para1{
+float:left;
+}
+.paraAll{
+text-align:left; 
+float:left;
+width:100%;
+padding: 30px;
+font-size: large;
+}
+.fig1{
+float:right;
+width:60%;
+padding:0;
+}
+}
+.figcap1{
+    float:right;
+    padding:60px;
+    overflow: hidden;
+    
+}
+.article_list{
+    list-style:none;
+    float:right;
+    text-align:center;
+margin:auto;
+padding:10px;
+font-family:"Trebuchet MS";
+}   
+.paraAll{
+    float:left;
+    width:60%;
+    padding:50px0;
+    
+}
+#featured-menu{
+    text-align:center;
+    padding:10px;
+    font-family:"Trebuchet MS";
+    display:block;
+}
+.figcap2{
+float:right;
+padding:20px;
+overflow: hidden;
+}
+.figcap1{
+float:center;
+padding:60px;
+overflow: hidden; 
+}
+.featured1{
+text-align:center;
+}
+.featured2{
+text-align:center;
+}
+#featured-menu a {
+    display: inline;
+    color: black;
+    padding: 10px 5px;
+    text-decoration: none;
+    font-family:"Trebuchet MS";
+}
+#featured-menu a:link { 
+     font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    border-bottom: 2px solid red;
+    margin: 12px 0 0; 
+
+}
+#featured-menu a:visited { 
+    text-decoration: none; 
+}
+#featured-menu a:hover {
+    text-decoration:none;
+    color:#a58335;
+    
+}
+#featured-menu a:active { 
+    text-decoration: none;
+    
+}
+.Featured{
+    display:inline;
+    text-align:center;
+    background-color: burlywood;
+    border-width: 2%;
+    font-weight: 700;
+}
